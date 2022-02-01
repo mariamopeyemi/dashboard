@@ -1,5 +1,6 @@
-##[DESIGN_TEST.pdf](https://github.com/mariamopeyemi/Dasboard-Test/files/7493094/DESIGN_TEST.pdf)
+## [DESIGN_TEST.pdf](https://github.com/mariamopeyemi/Dasboard-Test/files/7493094/DESIGN_TEST.pdf)
 This is a dashboard built using ReactJS and CSS to test my creativity and layout skill.
+Click [Here](https://my-dashboard-solution.netlify.app/) to view
 
 
 
