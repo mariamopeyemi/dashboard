@@ -1,0 +1,33 @@
+.tripleCards{
+    /* background-color: green; */
+    height: 30%;
+    display: flex;
+}
+.myCard{
+    width: 250px;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 10px;
+    /* border: 1px grey solid; */
+    box-shadow: 1px 2px 5px 0px rgba(99,92,92,0.75);
+    -webkit-box-shadow: 1px 2px 5px 0px rgba(99,92,92,0.75);
+    -moz-box-shadow: 1px 2px 5px 0px rgba(99,92,92,0.75);
+}
+.visaCard{
+    /* background-color: purple; */
+    background-image: linear-gradient(to right, #fc08c7, #eb97ddc1);
+   
+}
+.tiny-grey{
+    font-size: 8px;
+    color: grey;
+    display: flex;
+    justify-content: space-between;
+}
+.visaName{
+    display: flex;
+    justify-content: space-between;
+}
+.visaBoxed{
+    padding-bottom: 30px;
+}

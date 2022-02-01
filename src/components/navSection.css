@@ -1,0 +1,28 @@
+.navStyle{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+}
+.welcomeNav{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+}
+
+.welcomeoverview{
+    display: flex;
+    width: 20%;
+    justify-content: space-between;
+    
+}
+.welcomeProfile{
+    display: flex;
+    width: 20%;
+    justify-content: space-evenly;
+}
+
+.welcomeProfile img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}

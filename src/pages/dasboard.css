@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.dashboard-container {
+    display: flex;
+}
+
+.dashboard-sidebar {
+    width: 15%;
+    border: 1px solid black;
+}
+
+.main-section {
+    width: 85%;
+    border: 1px solid black;
+}
+
+.dashboard-navbar {
+    border: 1px solid black;
+}
+
+.main-section-inner {
+    display: flex;
+    /* justify-content: space-between; */
+}

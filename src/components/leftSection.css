@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.currentCard{
+    background-color: orange;
+    width: 150px;
+    height: 80px;
+    padding: 15px;
+    color: white;
+    margin-left: 10px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.dashboard-main{
+    display: flex;
+    padding: 10px;
+    color: grey;
+}
+.dashboard-box{
+    padding-left: 20px;
+}
+.myBtn{
+    background-color: rgb(190, 53, 99);
+    color:white;
+    width: 100px;
+    display: flex;
+    justify-content: space-around;
+    border: none;
+    padding: 5px;
+    margin: 15px;
+}
+.lower-dashboard h5{
+    color: grey;
+}
+.lower-dashboard{
+    padding-top: 15vh;
+    padding-left: 10px;
+}
+
+.toggle h4{
+    color: grey;
+}
+.darkMode{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+}
