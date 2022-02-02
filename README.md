@@ -1,3 +1,9 @@
+## [DESIGN_TEST.pdf](https://github.com/mariamopeyemi/Dasboard-Test/files/7493094/DESIGN_TEST.pdf)
+This is a dashboard built using ReactJS and CSS to test my creativity and layout skill.
+Click [Here](https://my-dashboard-solution.netlify.app/) to view
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
